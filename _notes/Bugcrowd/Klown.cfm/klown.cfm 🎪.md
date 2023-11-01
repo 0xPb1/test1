@@ -37,9 +37,9 @@ In this CTF challenge, you were presented with a mysterious web page at the give
 6. **Input Password:**
 	* You then input the secret password, `KR33PIE-KL0WN`, into the appropriate field, following the instructions provided in the pop-up.
 	
-	![[Pasted image 20231101224233.png]]
+	![[Bugcrowd/Klown.cfm/Pasted image 20231101224233.png]]
 
 7. **Final Flag:** 
 	- After submitting the password, you received the final response:
 
-![[Pasted image 20231101224127.png]]
+![[Pasted image 20231101224121.png]]

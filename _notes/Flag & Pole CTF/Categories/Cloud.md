@@ -1,1 +1,0 @@
- The cloud challenges that include AWS, GCP, and Azure misconfigurations. Players will apply real-world privilege escalation techniques and attack paths in cloud environments.
