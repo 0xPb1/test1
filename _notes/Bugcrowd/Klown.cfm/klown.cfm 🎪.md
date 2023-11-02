@@ -13,7 +13,7 @@ In this CTF challenge, you were presented with a mysterious web page at the give
 1. **Initial Exploration:** 
 	* Upon visiting the URL [https://spooky.bugcrowd.zw.ink/klown.cfm](https://spooky.bugcrowd.zw.ink/klown.cfm), you encountered a peculiar webpage.
 
-![#1](https://github.com/0xPb1/test1/blob/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101223651.png)
+![#1](https://raw.githubusercontent.com/0xPb1/test1/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101223651.png)
 
 2. **Hidden Button Element:**
 	* You noticed a button element with the following attributes:
