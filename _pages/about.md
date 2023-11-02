@@ -4,6 +4,8 @@ title: whoami
 permalink: /whoami
 ---
 
+<img src="URL_TO_YOUR_IMAGE" alt="Your Name" align="left" width="100"/>
+
 # Prasanth Bodepu
 
 Hi, I'm [Prasanth Bodepu](https://0xpb1.app/resume), a 22-year-old security researcher with a focus on cybersecurity. Currently, I work as a Product Security Engineer at [Groww](https://groww.in) in Bengaluru.
