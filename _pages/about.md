@@ -4,7 +4,7 @@ title: whoami
 permalink: /whoami
 ---
 
-<img src="https://raw.githubusercontent.com/0xPb1/test1/test/_img/gojo.jpeg" alt="0xPb" align="right" style="width:440px; height:310px;"/>
+<!-- <img src="https://raw.githubusercontent.com/0xPb1/test1/test/_img/gojo.jpeg" alt="0xPb" align="right" style="width:440px; height:310px;"/> -->
 
 # Prasanth Bodepu
 
