@@ -68,6 +68,8 @@ I don't know why, but I was drawn to this challenge and even took some time off 
 
 The challenge might seem simple after reading this walkthrough, but believe me, it took a lot of brainpower and time to execute.
 
+I'd like to extend my gratitude to my friend, Paweł Wąsik, for his constant support.
+
 **References:**
 
 - [Using PHP Wrappers within LFI to Obtain PHP Script Source Code](https://infinitelogins.com/2020/04/25/lfi-php-wrappers-to-obtain-source-code/)
