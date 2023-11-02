@@ -13,7 +13,7 @@ In this CTF challenge, you were presented with a mysterious web page at the give
 1. **Initial Exploration:** 
 	* Upon visiting the URL [https://spooky.bugcrowd.zw.ink/klown.cfm](https://spooky.bugcrowd.zw.ink/klown.cfm), you encountered a peculiar webpage.
 
-![#1](Pasted image 20231101223651.png)
+![#1](https://github.com/0xPb1/test1/blob/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101223651.png)
 
 2. **Hidden Button Element:**
 	* You noticed a button element with the following attributes:
@@ -32,15 +32,15 @@ In this CTF challenge, you were presented with a mysterious web page at the give
 	* Your action triggered a pop-up message that revealed the password:
 		`Secret Password: KR33PIE-KL0WN`
 
-![#2](Pasted image 20231101223939.png)
+![#2](https://raw.githubusercontent.com/0xPb1/test1/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101223939.png)
 
 6. **Input Password:**
 	* You then input the secret password, `KR33PIE-KL0WN`, into the appropriate field, following the instructions provided in the pop-up.
 	
-	![#3](Bugcrowd/Klown.cfm/Pasted image 20231101224233.png)
+	![#3](https://raw.githubusercontent.com/0xPb1/test1/main/_notes/Bugcrowd/Pasted%20image%2020231101224233.png)
 
 7. **Final Flag:** 
 	- After submitting the password, you received the final response:
 
-![#4](Pasted image 20231101224121.png)
+![#4](https://raw.githubusercontent.com/0xPb1/test1/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101224121.png)
 
