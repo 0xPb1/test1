@@ -1,0 +1,145 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Configuration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Themes: Awesome-CV
+\documentclass[]{awesome-cv}
+\usepackage{textcomp}
+%%% Override a directory location for fonts(default: 'fonts/')
+\fontdir[fonts/]
+
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{resume/}
+
+%%% Override color
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%% Color for highlight
+% Define your custom color if you don't like awesome colors
+\colorlet{awesome}{awesome-red}
+%\definecolor{awesome}{HTML}{CA63A8}
+%% Colors for text
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+%%% Override a separator for social informations in header(default: ' | ')
+%\headersocialsep[\quad\textbar\quad]
+    \begin{document}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Profile
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+	\headerfirstnamestyle{Prasanth} \headerlastnamestyle{Bodepu} \\
+	\vspace{2mm}
+	{\faEnvelope\ prasanth.bodepu@gmail.com} | {\faMobile\ +91 7731065271} | {\faMapMarker\ Bangalore} | {\faLink\ https://twitter.com/_0xPb}| {\faLink\ https://medium.com/@prasanth.bodepu}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Education
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Education}
+\begin{cventries}
+	\cventry
+	{B. Tech in Computer Science Engineering}
+	{Rajiv Gandhi University of Knowledge Technologies IIIT Srikakulam}
+	{Nuzvid}
+	{July 2018 – July 2022}
+	{GPA: 8.6}
+	\cventry
+	{B. Tech in Computer Science Engineering}
+	{Rajiv Gandhi University of Knowledge Technologies IIIT Srikakulam}
+	{Nuzvid}
+	{August 2016 – June 2018}
+	{GPA: 8.6}
+\end{cventries}
+
+\vspace{-2mm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Experience
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Work Experience}
+\begin{cventries}
+	\cventry
+	{Product Security Engineer}
+	{Groww}
+	{Bangalore}
+	{May 2022 – Present}
+	{\begin{cvitems}
+		\item {I am responsible for overseeing the security aspects of the authentication service.}
+		\item {As the security lead for the new \textless{}product\textgreater{}, I ensure its protection against potential threats.}
+		\item {I handle the bug bounty program, encouraging security researchers to report vulnerabilities and rewarding their discoveries.}
+		\item {I am also responsible for managing security-related audits for various entities at Groww.}
+		\end{cvitems}}
+	\cventry
+	{Security Testing Engineer Intern}
+	{Learnyst}
+	{Bangalore}
+	{March 2022 – April 2022}
+	{\begin{cvitems}
+		\item {Identifying security vulnerabilities, reporting them, and offering effective remediation methods.}
+		\end{cvitems}}
+\end{cventries}
+\cvsection{Skills}
+\begin{cventries}
+	\cventry
+	{}
+	{\def\arraystretch{1.15}{\begin{tabular}{ l l }
+		WAPT, Mobile and Network VAPT, CTF, bash, Code review:  & {\skill{ Product Security, PRD Review, Code Review, Automation}} \\
+		\end{tabular}}}
+	{}
+	{}
+	{}
+\end{cventries}
+
+\vspace{-7mm}
+\cvsection{Projects}
+\begin{cventries}
+	\cventry
+	{I developed this automation script to simplify my work at the workplace. It allows me to conduct regular cloud IP scans for the entire organization by taking inputs and generating desired scan outputs efficiently.}
+	{Cloud IP Scan}
+	{bash}
+	{}
+	{}
+	
+	\vspace{-5mm}
+	\cventry
+	{I have created a JIRA framework specifically designed to handle bug bounty-related issues. This framework proves to be beneficial for all entities within the organization, streamlining the bug bounty management process effectively.}
+	{JIRA Automation for Bug Bounty Management}
+	{Python}
+	{}
+	{}
+	
+	\vspace{-5mm}
+\end{cventries}
+\cvsection{Awards}
+\begin{cvhonors}
+	\cvhonor
+	{CTF Challenge Solver of the month}
+	{I have won by successfully completing and submitting the challenge report to Intigriti, earning the recognition as the winner of the month.}
+	{Intigriti}
+	{Feb 2023}
+	\cvhonor
+	{eLFI already solved it}
+	{have won by successfully completing and submitting the corresponding report to BugCrowd first, I have earned BugCrowd\textquotesingle{}s supercool swags as a reward.}
+	{BugCrowd}
+	{January 2023}
+\end{cvhonors}
+\ 
+\end{document}
