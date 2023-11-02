@@ -68,3 +68,7 @@ I'd like to extend my gratitude to my friend, Paweł Wąsik, for his constant su
 - [You find a Local File Inclusion (LFI) running PHP, you're able to leverage a PHP wrapper to convert the file to Base64…infinitelogins.com](https://infinitelogins.com/2020/04/25/lfi-php-wrappers-to-obtain-source-code/)
 
 **Connect with me at:** [LinkedIn](https://www.linkedin.com/in/prasanth-bodepu-%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%B6%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D-411ba31a3/), [Twitter](https://twitter.com/_0xPb)
+
+
+
+Here's a link to the next fun [[Bugcrowd eLFI Challenge]] challenge.
