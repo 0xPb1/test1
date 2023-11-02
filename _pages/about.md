@@ -4,6 +4,23 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+# Prasanth Bodepu
 
-Feel free to tell the world about what you love! 😍
+Hi, I'm Prasanth Bodepu, a 22-year-old security researcher with a focus on cybersecurity. Currently, I work as a Product Security Engineer at Groww in Bengaluru.
+
+## About Me
+
+In my professional life, I am dedicated to enhancing product security and ensuring the safety of digital systems. I have a love-hate relationship with the mind-boggling challenges and puzzle-solving fun of the cybersecurity field. It's like a rollercoaster ride with no seatbelts! 🎢💻😅
+
+During my free time, I love participating in Capture The Flag (CTF) competitions, where I can put my skills to the test and learn new techniques. I also enjoy creating vulnerable boxes for others to explore and learn from.
+
+## Contact Information
+
+You can reach out to me via email at [prasanth.bodepu@gmail.com](mailto:prasanth.bodepu@gmail.com).
+
+For verification purposes, my Discord tag is **0xpb#1428**, but please note that I do not accept friend requests from strangers on Discord. If you need to get in touch with me, I encourage you to use email instead.
+
+## Social Media
+
+You can find me on social media with the handle [@_0xPb](https://twitter.com/_0xPb). Feel free to connect with me and join the conversation! 😍
+
