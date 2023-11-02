@@ -71,4 +71,4 @@ I'd like to extend my gratitude to my friend, Paweł Wąsik, for his constant su
 
 
 
-Here's a link to the next fun [[Bugcrowd eLFI Challenge]] challenge.
+Here's a link to the next fun [[klown.cfm 🎪]] challenge.
