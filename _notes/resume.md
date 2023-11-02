@@ -4,13 +4,13 @@
 ## Education
 - **Rajiv Gandhi University of Knowledge Technologies IIIT Srikakulam**
   - B.TECH IN COMPUTER SCIENCE ENGINEERING
+  - Nuzvid
+  - *July 2018 – July 2022*
   - GPA: 8.6
 
 ## Work Experience
 - **Groww**
   - **PRODUCT SECURITY ENGINEER**
-  - Nuzvid
-  - *July 2018 – July 2022*
   - Bangalore
   - *May 2022 – Present*
     - Responsible for overseeing the security aspects of the authentication service.
@@ -24,14 +24,13 @@
   - Identifying security vulnerabilities, reporting them, and offering effective remediation methods.
 
 ## Skills
-- WAPT
-- Mobile and Network VAPT
+- WAPT, Mobile and Network VAPT
 - CTF
 - bash
-- Code review: Product Security
-- PRD Review
-- Code Review
+- PRD & Code review
+- Product Security
 - Automation
+- Docker & Kubernetes
 
 ## Projects
 - **Cloud IP Scan**
@@ -41,7 +40,7 @@
   - Created a JIRA framework specifically designed to handle bug bounty-related issues. This framework proves to be beneficial for all entities within the organization, streamlining the bug bounty management process effectively.
 
 ## Awards
-- **Intigriti BugCrowd**
+- **Intigriti**
   - February 2023
   - CTF Challenge Solver of the month, recognized for successfully completing and submitting the challenge report to Intigriti, earning the title of the winner of the month.
 
