@@ -6,8 +6,6 @@ Categories: [CTF, eLFI Challenge]
 Tags: [bugcrowd, elfi, lfi, php, swag]
 ---
 
-# eLFI already solved it, better get going #BUGCROWD Challenge
-
 ![image1](https://miro.medium.com/v2/resize:fit:1400/0*OhB8Zp9uhjXWWEaG)
 
 The Bugcrowd has thrown down the gauntlet to all hackers out there.
