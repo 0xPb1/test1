@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: whoami
+permalink: /whoami
 ---
 
 # Prasanth Bodepu
