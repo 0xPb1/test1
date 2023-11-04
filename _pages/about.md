@@ -8,7 +8,7 @@ permalink: /whoami
 
 # Prasanth Bodepu
 
-Hi, I'm [Prasanth Bodepu](https://0xpb1.app/resume), a 22-year-old security researcher with a focus on cybersecurity. Currently, I work as a Product Security Engineer at [Groww](https://groww.in) in Bengaluru.
+Hi, I'm [Prasanth Bodepu](https://www.linkedin.com/in/prasanth-bodepu-%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%B6%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D-411ba31a3/), a 22-year-old security researcher with a focus on cybersecurity. Currently, I work as a Product Security Engineer at [Groww](https://groww.in), Bengaluru.
 
 ## About Me
 
