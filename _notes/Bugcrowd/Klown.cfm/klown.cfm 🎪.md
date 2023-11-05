@@ -6,7 +6,6 @@ Categories: [CTF, spooky Challenge]
 Tags: [bugcrowd, spooky, klown]
 ---
 
-
 ```
 challenge URL: https://spooky.bugcrowd.zw.ink/klown.cfm
 ```
@@ -51,4 +50,7 @@ In this CTF challenge, you were presented with a mysterious web page at the give
 
 ![#4](https://raw.githubusercontent.com/0xPb1/test1/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101224121.png)
 
-Here's a link to the next fun [[Bugcrowd eLFI Challenge]] challenge.
+
+
+
+Here's a link to the next fun [[Bugcrowd eLFI Challenge]].
