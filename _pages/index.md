@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome! Peeps 🌱
+# Welcome Peeps! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a 👀 at <span style="font-weight: bold">My [[Resume]]</span> to get some 💡 about me.
