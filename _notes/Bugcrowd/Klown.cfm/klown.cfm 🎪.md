@@ -11,12 +11,12 @@ In this CTF challenge, you were presented with a mysterious web page at the give
 ## Solution:
 
 1. **Initial Exploration:** 
-	* Upon visiting the URL [https://spooky.bugcrowd.zw.ink/klown.cfm](https://spooky.bugcrowd.zw.ink/klown.cfm), you encountered a peculiar webpage.
+	* Upon visiting the URL [https://spooky.bugcrowd.zw.ink/klown.cfm](https://spooky.bugcrowd.zw.ink/klown.cfm), I encountered a peculiar webpage.
 
 ![#1](https://raw.githubusercontent.com/0xPb1/test1/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101223651.png)
 
 2. **Hidden Button Element:**
-	* You noticed a button element with the following attributes:
+	* I noticed a button element with the following attributes:
 
 ```
 <input name="smile" type="submit" value="submit" disabled="true" style="color:#DF6322; font-weight:bold; cursor: not-allowed" title="Access Denied" id="smile">
@@ -25,11 +25,11 @@ In this CTF challenge, you were presented with a mysterious web page at the give
 * The button was initially disabled and appeared inaccessible.
 	
 3. **Button Activation:** 
-	* You realized that the button could be activated by removing the disabled="true" attribute.
+	* I realized that the button could be activated by removing the disabled="true" attribute.
 4. **Form Submission:**
-	*  After removing the disabled="true" attribute, you submitted the form with a random input, 'dummy.'
+	*  After removing the disabled="true" attribute, I submitted the form with the default input "Kreepy Klown denies you access!".
 5. **Alert Popup:**
-	* Your action triggered a pop-up message that revealed the password:
+	* My action triggered a pop-up message that revealed the password:
 		`Secret Password: KR33PIE-KL0WN`
 
 ![#2](https://raw.githubusercontent.com/0xPb1/test1/main/_notes/Bugcrowd/Klown.cfm/Pasted%20image%2020231101223939.png)
