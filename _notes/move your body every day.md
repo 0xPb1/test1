@@ -1,4 +1,4 @@
----
+<!-- ---
 ---
 
 Move your body every day. Benefits include:
@@ -8,4 +8,4 @@ Move your body every day. Benefits include:
 - Increased productivity
 - Reduced anxiety
 
-The "every day" part is important, because [[consistency]] is key to most things worth doing.
+The "every day" part is important, because [[consistency]] is key to most things worth doing. -->
