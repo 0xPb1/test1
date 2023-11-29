@@ -16,7 +16,7 @@
     - Responsible for overseeing the security aspects of the core authentication service.
     - Built Security for a new `product` in the company, ensuring its protection against potential threats.
     - Managing the bug bounty program, Implementing services essential for it's operation, encouraging security researchers to report vulnerabilities and rewarding their discoveries.
-    -  automation around the bug bounty management
+    -  Automation the bug bounty management.
     - Managing security-related audits for various entities.
     - Organize and oversee annual Capture The Flag (CTF) competition and challenges within the company.
 
