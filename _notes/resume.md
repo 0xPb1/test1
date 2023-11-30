@@ -1,5 +1,5 @@
 # Prasanth Bodepu
-📧 prasanth.bodepu@gmail.com | 📞 +91 7731065271 | 📍 Bangalore | 🌐 [Twitter](https://twitter.com/_0xPb)
+📧 prasanth.bodepu@gmail.com | 📞 +91 7731065271 | 📍 Bangalore | 🌐 [LinkedIn](https://www.linkedin.com/in/0xPb/)
 
 ## Education
 - **Rajiv Gandhi University of Knowledge Technologies IIIT Srikakulam**
